@@ -1,3 +1,3 @@
 # Wallpapers
 
-a PingvinSarok háttérképekkel foglalkozó Tárolója
+A PingvinSarok háttérképekkel foglalkozó Tárolója
