@@ -1,0 +1,72 @@
+# Háttérképek index fájl
+
+###### 66 képfájl található a gyűjteményben.
+
+Háttérkép|Adatok
+---------|------
+<img src="./10.png" width="150px" height="auto" alt="10.png" />|*Fájlnév:* 10.png<br/>*Méret:* 1.33 MB<br/>*Dimenzió:* 4498*3000 pixel
+<img src="./1115.jpg" width="150px" height="auto" alt="1115.jpg" />|*Fájlnév:* 1115.jpg<br/>*Méret:* 479.64 KB<br/>*Dimenzió:* 2560*1440 pixel
+<img src="./1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" width="150px" height="auto" alt="1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" />|*Fájlnév:* 1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg<br/>*Méret:* 1.90 MB<br/>*Dimenzió:* 4717*2984 pixel
+<img src="./4.png" width="150px" height="auto" alt="4.png" />|*Fájlnév:* 4.png<br/>*Méret:* 3.55 MB<br/>*Dimenzió:* 7952*5304 pixel
+<img src="./49371152_p0_master1200.jpg" width="150px" height="auto" alt="49371152_p0_master1200.jpg" />|*Fájlnév:* 49371152_p0_master1200.jpg<br/>*Méret:* 1.06 MB<br/>*Dimenzió:* 1200*675 pixel
+<img src="./6.png" width="150px" height="auto" alt="6.png" />|*Fájlnév:* 6.png<br/>*Méret:* 1.06 MB<br/>*Dimenzió:* 3840*2160 pixel
+<img src="./7.png" width="150px" height="auto" alt="7.png" />|*Fájlnév:* 7.png<br/>*Méret:* 432.67 KB<br/>*Dimenzió:* 3000*2002 pixel
+<img src="./70059505_p0_master1200.jpg" width="150px" height="auto" alt="70059505_p0_master1200.jpg" />|*Fájlnév:* 70059505_p0_master1200.jpg<br/>*Méret:* 766.79 KB<br/>*Dimenzió:* 1200*675 pixel
+<img src="./8.png" width="150px" height="auto" alt="8.png" />|*Fájlnév:* 8.png<br/>*Méret:* 3.58 MB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./9.png" width="150px" height="auto" alt="9.png" />|*Fájlnév:* 9.png<br/>*Méret:* 1.45 MB<br/>*Dimenzió:* 7952*5304 pixel
+<img src="./DSCN4869.JPG" width="150px" height="auto" alt="DSCN4869.JPG" />|*Fájlnév:* DSCN4869.JPG<br/>*Méret:* 3.05 MB<br/>*Dimenzió:* 4608*3072 pixel
+<img src="./DSCN4891.JPG" width="150px" height="auto" alt="DSCN4891.JPG" />|*Fájlnév:* DSCN4891.JPG<br/>*Méret:* 2.99 MB<br/>*Dimenzió:* 4608*3072 pixel
+<img src="./DSCN4909.JPG" width="150px" height="auto" alt="DSCN4909.JPG" />|*Fájlnév:* DSCN4909.JPG<br/>*Méret:* 2.94 MB<br/>*Dimenzió:* 3072*4608 pixel
+<img src="./DSCN4932.JPG" width="150px" height="auto" alt="DSCN4932.JPG" />|*Fájlnév:* DSCN4932.JPG<br/>*Méret:* 2.96 MB<br/>*Dimenzió:* 4608*3072 pixel
+<img src="./DSCN5114.JPG" width="150px" height="auto" alt="DSCN5114.JPG" />|*Fájlnév:* DSCN5114.JPG<br/>*Méret:* 3.00 MB<br/>*Dimenzió:* 4608*3072 pixel
+<img src="./IMG_20200121_144648_BURST8.jpg" width="150px" height="auto" alt="IMG_20200121_144648_BURST8.jpg" />|*Fájlnév:* IMG_20200121_144648_BURST8.jpg<br/>*Méret:* 252.83 KB<br/>*Dimenzió:* 1737*976 pixel
+<img src="./bckgrnd1.jpg" width="150px" height="auto" alt="bckgrnd1.jpg" />|*Fájlnév:* bckgrnd1.jpg<br/>*Méret:* 225.29 KB<br/>*Dimenzió:* 2560*1600 pixel
+<img src="./bckgrnd2.jpg" width="150px" height="auto" alt="bckgrnd2.jpg" />|*Fájlnév:* bckgrnd2.jpg<br/>*Méret:* 142.55 KB<br/>*Dimenzió:* 2560*1600 pixel
+<img src="./bckgrnd3.jpg" width="150px" height="auto" alt="bckgrnd3.jpg" />|*Fájlnév:* bckgrnd3.jpg<br/>*Méret:* 118.68 KB<br/>*Dimenzió:* 1880*1253 pixel
+<img src="./bckgrnd4.jpg" width="150px" height="auto" alt="bckgrnd4.jpg" />|*Fájlnév:* bckgrnd4.jpg<br/>*Méret:* 42.26 KB<br/>*Dimenzió:* 1880*1253 pixel
+<img src="./bckgrnd5.jpg" width="150px" height="auto" alt="bckgrnd5.jpg" />|*Fájlnév:* bckgrnd5.jpg<br/>*Méret:* 3.47 MB<br/>*Dimenzió:* 3840*2160 pixel
+<img src="./bckgrnd6.jpg" width="150px" height="auto" alt="bckgrnd6.jpg" />|*Fájlnév:* bckgrnd6.jpg<br/>*Méret:* 210.40 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./bckgrnd7.jpg" width="150px" height="auto" alt="bckgrnd7.jpg" />|*Fájlnév:* bckgrnd7.jpg<br/>*Méret:* 264.83 KB<br/>*Dimenzió:* 2560*1440 pixel
+<img src="./cat_night_lights_74375_1280x720.jpg" width="150px" height="auto" alt="cat_night_lights_74375_1280x720.jpg" />|*Fájlnév:* cat_night_lights_74375_1280x720.jpg<br/>*Méret:* 72.70 KB<br/>*Dimenzió:* 1280*720 pixel
+<img src="./erg0wagg1vs01.jpg" width="150px" height="auto" alt="erg0wagg1vs01.jpg" />|*Fájlnév:* erg0wagg1vs01.jpg<br/>*Méret:* 560.14 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" width="150px" height="auto" alt="hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" />|*Fájlnév:* hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg<br/>*Méret:* 377.84 KB<br/>*Dimenzió:* 2048*1365 pixel
+<img src="./horizon.png" width="150px" height="auto" alt="horizon.png" />|*Fájlnév:* horizon.png<br/>*Méret:* 2.45 MB<br/>*Dimenzió:* 3840*2160 pixel
+<img src="./iu.png" width="150px" height="auto" alt="iu.png" />|*Fájlnév:* iu.png<br/>*Méret:* 860.52 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./keszthely_beach_2188p.jpg" width="150px" height="auto" alt="keszthely_beach_2188p.jpg" />|*Fájlnév:* keszthely_beach_2188p.jpg<br/>*Méret:* 3.46 MB<br/>*Dimenzió:* 3890*2188 pixel
+<img src="./mountains-0.jpg" width="150px" height="auto" alt="mountains-0.jpg" />|*Fájlnév:* mountains-0.jpg<br/>*Méret:* 265.62 KB<br/>*Dimenzió:* 1350*1080 pixel
+<img src="./mountains-1.jpg" width="150px" height="auto" alt="mountains-1.jpg" />|*Fájlnév:* mountains-1.jpg<br/>*Méret:* 258.11 KB<br/>*Dimenzió:* 1620*1080 pixel
+<img src="./mountains-10.jpg" width="150px" height="auto" alt="mountains-10.jpg" />|*Fájlnév:* mountains-10.jpg<br/>*Méret:* 343.15 KB<br/>*Dimenzió:* 1620*1080 pixel
+<img src="./mountains-11.jpg" width="150px" height="auto" alt="mountains-11.jpg" />|*Fájlnév:* mountains-11.jpg<br/>*Méret:* 283.92 KB<br/>*Dimenzió:* 1620*1080 pixel
+<img src="./mountains-12.jpg" width="150px" height="auto" alt="mountains-12.jpg" />|*Fájlnév:* mountains-12.jpg<br/>*Méret:* 163.84 KB<br/>*Dimenzió:* 1620*1080 pixel
+<img src="./mountains-2.jpg" width="150px" height="auto" alt="mountains-2.jpg" />|*Fájlnév:* mountains-2.jpg<br/>*Méret:* 345.59 KB<br/>*Dimenzió:* 1620*1080 pixel
+<img src="./mountains-3.jpg" width="150px" height="auto" alt="mountains-3.jpg" />|*Fájlnév:* mountains-3.jpg<br/>*Méret:* 1.09 MB<br/>*Dimenzió:* 5616*3744 pixel
+<img src="./mountains-4.jpg" width="150px" height="auto" alt="mountains-4.jpg" />|*Fájlnév:* mountains-4.jpg<br/>*Méret:* 194.31 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./mountains-5.jpg" width="150px" height="auto" alt="mountains-5.jpg" />|*Fájlnév:* mountains-5.jpg<br/>*Méret:* 7.18 MB<br/>*Dimenzió:* 7952*5304 pixel
+<img src="./mountains-6.jpg" width="150px" height="auto" alt="mountains-6.jpg" />|*Fájlnév:* mountains-6.jpg<br/>*Méret:* 2.59 MB<br/>*Dimenzió:* 5616*3744 pixel
+<img src="./mountains-7.jpg" width="150px" height="auto" alt="mountains-7.jpg" />|*Fájlnév:* mountains-7.jpg<br/>*Méret:* 2.47 MB<br/>*Dimenzió:* 5184*2916 pixel
+<img src="./mountains-8.jpg" width="150px" height="auto" alt="mountains-8.jpg" />|*Fájlnév:* mountains-8.jpg<br/>*Méret:* 2.20 MB<br/>*Dimenzió:* 4096*2733 pixel
+<img src="./mountains-9.jpg" width="150px" height="auto" alt="mountains-9.jpg" />|*Fájlnév:* mountains-9.jpg<br/>*Méret:* 139.55 KB<br/>*Dimenzió:* 1707*1080 pixel
+<img src="./pexels-anand-dandekar-1532771.jpg" width="150px" height="auto" alt="pexels-anand-dandekar-1532771.jpg" />|*Fájlnév:* pexels-anand-dandekar-1532771.jpg<br/>*Méret:* 466.22 KB<br/>*Dimenzió:* 2500*1717 pixel
+<img src="./pexels-arist-creathrive-2253573.jpg" width="150px" height="auto" alt="pexels-arist-creathrive-2253573.jpg" />|*Fájlnév:* pexels-arist-creathrive-2253573.jpg<br/>*Méret:* 2.88 MB<br/>*Dimenzió:* 4000*2250 pixel
+<img src="./pexels-artem-beliaikin-853199.jpg" width="150px" height="auto" alt="pexels-artem-beliaikin-853199.jpg" />|*Fájlnév:* pexels-artem-beliaikin-853199.jpg<br/>*Méret:* 7.02 MB<br/>*Dimenzió:* 6000*4000 pixel
+<img src="./pexels-beth-easton-2433985.jpg" width="150px" height="auto" alt="pexels-beth-easton-2433985.jpg" />|*Fájlnév:* pexels-beth-easton-2433985.jpg<br/>*Méret:* 1.79 MB<br/>*Dimenzió:* 4096*3270 pixel
+<img src="./pexels-burst-374710.jpg" width="150px" height="auto" alt="pexels-burst-374710.jpg" />|*Fájlnév:* pexels-burst-374710.jpg<br/>*Méret:* 4.92 MB<br/>*Dimenzió:* 5498*3615 pixel
+<img src="./pexels-eberhard-grossgasteiger-1287145.jpg" width="150px" height="auto" alt="pexels-eberhard-grossgasteiger-1287145.jpg" />|*Fájlnév:* pexels-eberhard-grossgasteiger-1287145.jpg<br/>*Méret:* 1.64 MB<br/>*Dimenzió:* 3648*2432 pixel
+<img src="./pexels-jeremy-bishop-2923595.jpg" width="150px" height="auto" alt="pexels-jeremy-bishop-2923595.jpg" />|*Fájlnév:* pexels-jeremy-bishop-2923595.jpg<br/>*Méret:* 9.59 MB<br/>*Dimenzió:* 7952*5304 pixel
+<img src="./pexels-johannes-plenio-1632788.jpg" width="150px" height="auto" alt="pexels-johannes-plenio-1632788.jpg" />|*Fájlnév:* pexels-johannes-plenio-1632788.jpg<br/>*Méret:* 3.04 MB<br/>*Dimenzió:* 6000*4000 pixel
+<img src="./pexels-kelsey-johnson-2331575.jpg" width="150px" height="auto" alt="pexels-kelsey-johnson-2331575.jpg" />|*Fájlnév:* pexels-kelsey-johnson-2331575.jpg<br/>*Méret:* 8.73 MB<br/>*Dimenzió:* 7952*4970 pixel
+<img src="./pexels-mohamed-almari-1485894.jpg" width="150px" height="auto" alt="pexels-mohamed-almari-1485894.jpg" />|*Fájlnév:* pexels-mohamed-almari-1485894.jpg<br/>*Méret:* 4.09 MB<br/>*Dimenzió:* 6000*4002 pixel
+<img src="./pexels-mstudio-2324562.jpg" width="150px" height="auto" alt="pexels-mstudio-2324562.jpg" />|*Fájlnév:* pexels-mstudio-2324562.jpg<br/>*Méret:* 1.52 MB<br/>*Dimenzió:* 6000*4000 pixel
+<img src="./pexels-pixabay-50594.jpg" width="150px" height="auto" alt="pexels-pixabay-50594.jpg" />|*Fájlnév:* pexels-pixabay-50594.jpg<br/>*Méret:* 2.23 MB<br/>*Dimenzió:* 4000*3000 pixel
+<img src="./pexels-rompalli-harish-1698618.jpg" width="150px" height="auto" alt="pexels-rompalli-harish-1698618.jpg" />|*Fájlnév:* pexels-rompalli-harish-1698618.jpg<br/>*Méret:* 6.67 MB<br/>*Dimenzió:* 5184*3456 pixel
+<img src="./pexels-sam-kolder-2387873.jpg" width="150px" height="auto" alt="pexels-sam-kolder-2387873.jpg" />|*Fájlnév:* pexels-sam-kolder-2387873.jpg<br/>*Méret:* 3.68 MB<br/>*Dimenzió:* 5472*3648 pixel
+<img src="./pexels-zhang-kaiyv-1139556.jpg" width="150px" height="auto" alt="pexels-zhang-kaiyv-1139556.jpg" />|*Fájlnév:* pexels-zhang-kaiyv-1139556.jpg<br/>*Méret:* 4.26 MB<br/>*Dimenzió:* 5903*3935 pixel
+<img src="./photo-1465140609800-c4c79b4b45a5.jpeg" width="150px" height="auto" alt="photo-1465140609800-c4c79b4b45a5.jpeg" />|*Fájlnév:* photo-1465140609800-c4c79b4b45a5.jpeg<br/>*Méret:* 218.39 KB<br/>*Dimenzió:* 1350*900 pixel
+<img src="./photo-1572816703439-d8b34c4dc93f.jpeg" width="150px" height="auto" alt="photo-1572816703439-d8b34c4dc93f.jpeg" />|*Fájlnév:* photo-1572816703439-d8b34c4dc93f.jpeg<br/>*Méret:* 346.16 KB<br/>*Dimenzió:* 1491*837 pixel
+<img src="./quentin-mabille-crane-cave-v2b.jpg" width="150px" height="auto" alt="quentin-mabille-crane-cave-v2b.jpg" />|*Fájlnév:* quentin-mabille-crane-cave-v2b.jpg<br/>*Méret:* 580.27 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./thumb-1920-895410.png" width="150px" height="auto" alt="thumb-1920-895410.png" />|*Fájlnév:* thumb-1920-895410.png<br/>*Méret:* 1.71 MB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./wallhaven-1kp5l1.jpg" width="150px" height="auto" alt="wallhaven-1kp5l1.jpg" />|*Fájlnév:* wallhaven-1kp5l1.jpg<br/>*Méret:* 152.99 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./wallhaven-96m2vx.jpg" width="150px" height="auto" alt="wallhaven-96m2vx.jpg" />|*Fájlnév:* wallhaven-96m2vx.jpg<br/>*Méret:* 866.77 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./wallhaven-k7xrym.jpg" width="150px" height="auto" alt="wallhaven-k7xrym.jpg" />|*Fájlnév:* wallhaven-k7xrym.jpg<br/>*Méret:* 283.00 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./wallhaven-z8yp3w.jpg" width="150px" height="auto" alt="wallhaven-z8yp3w.jpg" />|*Fájlnév:* wallhaven-z8yp3w.jpg<br/>*Méret:* 3.54 MB<br/>*Dimenzió:* 6000*4000 pixel
+<img src="./z6z7uc4qyby51.png" width="150px" height="auto" alt="z6z7uc4qyby51.png" />|*Fájlnév:* z6z7uc4qyby51.png<br/>*Méret:* 415.71 KB<br/>*Dimenzió:* 2400*1350 pixel
