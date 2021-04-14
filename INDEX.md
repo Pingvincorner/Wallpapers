@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 66 képfájl található a gyűjteményben.
+###### 68 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -20,6 +20,7 @@ Háttérkép|Adatok
 <img src="./DSCN4932.JPG" width="150px" height="auto" alt="DSCN4932.JPG" />|*Fájlnév:* DSCN4932.JPG<br/>*Méret:* 2.96 MB<br/>*Dimenzió:* 4608*3072 pixel
 <img src="./DSCN5114.JPG" width="150px" height="auto" alt="DSCN5114.JPG" />|*Fájlnév:* DSCN5114.JPG<br/>*Méret:* 3.00 MB<br/>*Dimenzió:* 4608*3072 pixel
 <img src="./IMG_20200121_144648_BURST8.jpg" width="150px" height="auto" alt="IMG_20200121_144648_BURST8.jpg" />|*Fájlnév:* IMG_20200121_144648_BURST8.jpg<br/>*Méret:* 252.83 KB<br/>*Dimenzió:* 1737*976 pixel
+<img src="./NYC_Top_of_the_Rock_Pano.jpg" width="150px" height="auto" alt="NYC_Top_of_the_Rock_Pano.jpg" />|*Fájlnév:* NYC_Top_of_the_Rock_Pano.jpg<br/>*Méret:* 1.77 MB<br/>*Dimenzió:* 4889*1111 pixel
 <img src="./bckgrnd1.jpg" width="150px" height="auto" alt="bckgrnd1.jpg" />|*Fájlnév:* bckgrnd1.jpg<br/>*Méret:* 225.29 KB<br/>*Dimenzió:* 2560*1600 pixel
 <img src="./bckgrnd2.jpg" width="150px" height="auto" alt="bckgrnd2.jpg" />|*Fájlnév:* bckgrnd2.jpg<br/>*Méret:* 142.55 KB<br/>*Dimenzió:* 2560*1600 pixel
 <img src="./bckgrnd3.jpg" width="150px" height="auto" alt="bckgrnd3.jpg" />|*Fájlnév:* bckgrnd3.jpg<br/>*Méret:* 118.68 KB<br/>*Dimenzió:* 1880*1253 pixel
@@ -46,6 +47,7 @@ Háttérkép|Adatok
 <img src="./mountains-7.jpg" width="150px" height="auto" alt="mountains-7.jpg" />|*Fájlnév:* mountains-7.jpg<br/>*Méret:* 2.47 MB<br/>*Dimenzió:* 5184*2916 pixel
 <img src="./mountains-8.jpg" width="150px" height="auto" alt="mountains-8.jpg" />|*Fájlnév:* mountains-8.jpg<br/>*Méret:* 2.20 MB<br/>*Dimenzió:* 4096*2733 pixel
 <img src="./mountains-9.jpg" width="150px" height="auto" alt="mountains-9.jpg" />|*Fájlnév:* mountains-9.jpg<br/>*Méret:* 139.55 KB<br/>*Dimenzió:* 1707*1080 pixel
+<img src="./new-york-hq.jpg" width="150px" height="auto" alt="new-york-hq.jpg" />|*Fájlnév:* new-york-hq.jpg<br/>*Méret:* 312.65 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./pexels-anand-dandekar-1532771.jpg" width="150px" height="auto" alt="pexels-anand-dandekar-1532771.jpg" />|*Fájlnév:* pexels-anand-dandekar-1532771.jpg<br/>*Méret:* 466.22 KB<br/>*Dimenzió:* 2500*1717 pixel
 <img src="./pexels-arist-creathrive-2253573.jpg" width="150px" height="auto" alt="pexels-arist-creathrive-2253573.jpg" />|*Fájlnév:* pexels-arist-creathrive-2253573.jpg<br/>*Méret:* 2.88 MB<br/>*Dimenzió:* 4000*2250 pixel
 <img src="./pexels-artem-beliaikin-853199.jpg" width="150px" height="auto" alt="pexels-artem-beliaikin-853199.jpg" />|*Fájlnév:* pexels-artem-beliaikin-853199.jpg<br/>*Méret:* 7.02 MB<br/>*Dimenzió:* 6000*4000 pixel
