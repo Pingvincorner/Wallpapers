@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 71 képfájl található a gyűjteményben.
+###### 69 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -67,10 +67,8 @@ Háttérkép|Adatok
 <img src="./photo-1465140609800-c4c79b4b45a5.jpeg" width="150px" height="auto" alt="photo-1465140609800-c4c79b4b45a5.jpeg" />|*Fájlnév:* photo-1465140609800-c4c79b4b45a5.jpeg<br/>*Méret:* 218.39 KB<br/>*Dimenzió:* 1350*900 pixel
 <img src="./photo-1572816703439-d8b34c4dc93f.jpeg" width="150px" height="auto" alt="photo-1572816703439-d8b34c4dc93f.jpeg" />|*Fájlnév:* photo-1572816703439-d8b34c4dc93f.jpeg<br/>*Méret:* 346.16 KB<br/>*Dimenzió:* 1491*837 pixel
 <img src="./quentin-mabille-crane-cave-v2b.jpg" width="150px" height="auto" alt="quentin-mabille-crane-cave-v2b.jpg" />|*Fájlnév:* quentin-mabille-crane-cave-v2b.jpg<br/>*Méret:* 580.27 KB<br/>*Dimenzió:* 1920*1080 pixel
-<img src="./the_red_debian_swirl.png" width="150px" height="auto" alt="the_red_debian_swirl.png" />|*Fájlnév:* the_red_debian_swirl.png<br/>*Méret:* 113.46 KB<br/>*Dimenzió:* 709*399 pixel
 <img src="./thumb-1920-895410.png" width="150px" height="auto" alt="thumb-1920-895410.png" />|*Fájlnév:* thumb-1920-895410.png<br/>*Méret:* 1.71 MB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./wallhaven-1kp5l1.jpg" width="150px" height="auto" alt="wallhaven-1kp5l1.jpg" />|*Fájlnév:* wallhaven-1kp5l1.jpg<br/>*Méret:* 152.99 KB<br/>*Dimenzió:* 1920*1080 pixel
-<img src="./wallhaven-43wmwy.png" width="150px" height="auto" alt="wallhaven-43wmwy.png" />|*Fájlnév:* wallhaven-43wmwy.png<br/>*Méret:* 81.97 KB<br/>*Dimenzió:* 636*399 pixel
 <img src="./wallhaven-96m2vx.jpg" width="150px" height="auto" alt="wallhaven-96m2vx.jpg" />|*Fájlnév:* wallhaven-96m2vx.jpg<br/>*Méret:* 866.77 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./wallhaven-k7xrym.jpg" width="150px" height="auto" alt="wallhaven-k7xrym.jpg" />|*Fájlnév:* wallhaven-k7xrym.jpg<br/>*Méret:* 283.00 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./wallhaven-z8yp3w.jpg" width="150px" height="auto" alt="wallhaven-z8yp3w.jpg" />|*Fájlnév:* wallhaven-z8yp3w.jpg<br/>*Méret:* 3.54 MB<br/>*Dimenzió:* 6000*4000 pixel
