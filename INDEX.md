@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 74 képfájl található a gyűjteményben.
+###### 71 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -30,7 +30,6 @@ Háttérkép|Adatok
 <img src="./bckgrnd6.jpg" width="150px" height="auto" alt="bckgrnd6.jpg" />|*Fájlnév:* bckgrnd6.jpg<br/>*Méret:* 210.40 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./bckgrnd7.jpg" width="150px" height="auto" alt="bckgrnd7.jpg" />|*Fájlnév:* bckgrnd7.jpg<br/>*Méret:* 264.83 KB<br/>*Dimenzió:* 2560*1440 pixel
 <img src="./cat_night_lights_74375_1280x720.jpg" width="150px" height="auto" alt="cat_night_lights_74375_1280x720.jpg" />|*Fájlnév:* cat_night_lights_74375_1280x720.jpg<br/>*Méret:* 72.70 KB<br/>*Dimenzió:* 1280*720 pixel
-<img src="./debian_stoneshard.jpg" width="150px" height="auto" alt="debian_stoneshard.jpg" />|*Fájlnév:* debian_stoneshard.jpg<br/>*Méret:* 18.33 KB<br/>*Dimenzió:* 709*399 pixel
 <img src="./erg0wagg1vs01.jpg" width="150px" height="auto" alt="erg0wagg1vs01.jpg" />|*Fájlnév:* erg0wagg1vs01.jpg<br/>*Méret:* 560.14 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" width="150px" height="auto" alt="hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" />|*Fájlnév:* hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg<br/>*Méret:* 377.84 KB<br/>*Dimenzió:* 2048*1365 pixel
 <img src="./horizon.png" width="150px" height="auto" alt="horizon.png" />|*Fájlnév:* horizon.png<br/>*Méret:* 2.45 MB<br/>*Dimenzió:* 3840*2160 pixel
@@ -69,8 +68,6 @@ Háttérkép|Adatok
 <img src="./photo-1572816703439-d8b34c4dc93f.jpeg" width="150px" height="auto" alt="photo-1572816703439-d8b34c4dc93f.jpeg" />|*Fájlnév:* photo-1572816703439-d8b34c4dc93f.jpeg<br/>*Méret:* 346.16 KB<br/>*Dimenzió:* 1491*837 pixel
 <img src="./quentin-mabille-crane-cave-v2b.jpg" width="150px" height="auto" alt="quentin-mabille-crane-cave-v2b.jpg" />|*Fájlnév:* quentin-mabille-crane-cave-v2b.jpg<br/>*Méret:* 580.27 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./the_red_debian_swirl.png" width="150px" height="auto" alt="the_red_debian_swirl.png" />|*Fájlnév:* the_red_debian_swirl.png<br/>*Méret:* 113.46 KB<br/>*Dimenzió:* 709*399 pixel
-<img src="./theprovenxorg.png" width="150px" height="auto" alt="theprovenxorg.png" />|*Fájlnév:* theprovenxorg.png<br/>*Méret:* 16.95 KB<br/>*Dimenzió:* 709*399 pixel
-<img src="./think_correctly.png" width="150px" height="auto" alt="think_correctly.png" />|*Fájlnév:* think_correctly.png<br/>*Méret:* 8.80 KB<br/>*Dimenzió:* 639*399 pixel
 <img src="./thumb-1920-895410.png" width="150px" height="auto" alt="thumb-1920-895410.png" />|*Fájlnév:* thumb-1920-895410.png<br/>*Méret:* 1.71 MB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./wallhaven-1kp5l1.jpg" width="150px" height="auto" alt="wallhaven-1kp5l1.jpg" />|*Fájlnév:* wallhaven-1kp5l1.jpg<br/>*Méret:* 152.99 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./wallhaven-43wmwy.png" width="150px" height="auto" alt="wallhaven-43wmwy.png" />|*Fájlnév:* wallhaven-43wmwy.png<br/>*Méret:* 81.97 KB<br/>*Dimenzió:* 636*399 pixel
