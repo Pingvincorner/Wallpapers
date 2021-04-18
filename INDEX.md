@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 70 képfájl található a gyűjteményben.
+###### 71 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -21,6 +21,7 @@ Háttérkép|Adatok
 <img src="./DSCN5114.JPG" width="150px" height="auto" alt="DSCN5114.JPG" />|*Fájlnév:* DSCN5114.JPG<br/>*Méret:* 3.00 MB<br/>*Dimenzió:* 4608*3072 pixel
 <img src="./IMG_20200121_144648_BURST8.jpg" width="150px" height="auto" alt="IMG_20200121_144648_BURST8.jpg" />|*Fájlnév:* IMG_20200121_144648_BURST8.jpg<br/>*Méret:* 252.83 KB<br/>*Dimenzió:* 1737*976 pixel
 <img src="./NYC_Top_of_the_Rock_Pano.jpg" width="150px" height="auto" alt="NYC_Top_of_the_Rock_Pano.jpg" />|*Fájlnév:* NYC_Top_of_the_Rock_Pano.jpg<br/>*Méret:* 1.77 MB<br/>*Dimenzió:* 4889*1111 pixel
+<img src="./abstract_particles.jpg" width="150px" height="auto" alt="abstract_particles.jpg" />|*Fájlnév:* abstract_particles.jpg<br/>*Méret:* 657.27 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./archetypes_of_mankind.jpg" width="150px" height="auto" alt="archetypes_of_mankind.jpg" />|*Fájlnév:* archetypes_of_mankind.jpg<br/>*Méret:* 12.83 KB<br/>*Dimenzió:* 709*399 pixel
 <img src="./bckgrnd1.jpg" width="150px" height="auto" alt="bckgrnd1.jpg" />|*Fájlnév:* bckgrnd1.jpg<br/>*Méret:* 225.29 KB<br/>*Dimenzió:* 2560*1600 pixel
 <img src="./bckgrnd2.jpg" width="150px" height="auto" alt="bckgrnd2.jpg" />|*Fájlnév:* bckgrnd2.jpg<br/>*Méret:* 142.55 KB<br/>*Dimenzió:* 2560*1600 pixel
@@ -33,6 +34,7 @@ Háttérkép|Adatok
 <img src="./erg0wagg1vs01.jpg" width="150px" height="auto" alt="erg0wagg1vs01.jpg" />|*Fájlnév:* erg0wagg1vs01.jpg<br/>*Méret:* 560.14 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" width="150px" height="auto" alt="hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" />|*Fájlnév:* hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg<br/>*Méret:* 377.84 KB<br/>*Dimenzió:* 2048*1365 pixel
 <img src="./horizon.png" width="150px" height="auto" alt="horizon.png" />|*Fájlnév:* horizon.png<br/>*Méret:* 2.45 MB<br/>*Dimenzió:* 3840*2160 pixel
+<img src="./imac-pro-official--wallpaper.jpg" width="150px" height="auto" alt="imac-pro-official--wallpaper.jpg" />|*Fájlnév:* imac-pro-official--wallpaper.jpg<br/>*Méret:* 381.12 KB<br/>*Dimenzió:* 4096*2160 pixel
 <img src="./iu.png" width="150px" height="auto" alt="iu.png" />|*Fájlnév:* iu.png<br/>*Méret:* 860.52 KB<br/>*Dimenzió:* 3440*1440 pixel
 <img src="./keszthely_beach_2188p.jpg" width="150px" height="auto" alt="keszthely_beach_2188p.jpg" />|*Fájlnév:* keszthely_beach_2188p.jpg<br/>*Méret:* 3.46 MB<br/>*Dimenzió:* 3890*2188 pixel
 <img src="./mountains-0.jpg" width="150px" height="auto" alt="mountains-0.jpg" />|*Fájlnév:* mountains-0.jpg<br/>*Méret:* 265.62 KB<br/>*Dimenzió:* 1350*1080 pixel
@@ -49,7 +51,6 @@ Háttérkép|Adatok
 <img src="./mountains-8.jpg" width="150px" height="auto" alt="mountains-8.jpg" />|*Fájlnév:* mountains-8.jpg<br/>*Méret:* 2.20 MB<br/>*Dimenzió:* 4096*2733 pixel
 <img src="./mountains-9.jpg" width="150px" height="auto" alt="mountains-9.jpg" />|*Fájlnév:* mountains-9.jpg<br/>*Méret:* 139.55 KB<br/>*Dimenzió:* 1707*1080 pixel
 <img src="./new-york-hq.jpg" width="150px" height="auto" alt="new-york-hq.jpg" />|*Fájlnév:* new-york-hq.jpg<br/>*Méret:* 312.65 KB<br/>*Dimenzió:* 1920*1080 pixel
-<img src="./normal-windows--wallpaper.jpg" width="150px" height="auto" alt="normal-windows--wallpaper.jpg" />|*Fájlnév:* normal-windows--wallpaper.jpg<br/>*Méret:* 207.44 KB<br/>*Dimenzió:* 3840*2160 pixel
 <img src="./pexels-anand-dandekar-1532771.jpg" width="150px" height="auto" alt="pexels-anand-dandekar-1532771.jpg" />|*Fájlnév:* pexels-anand-dandekar-1532771.jpg<br/>*Méret:* 466.22 KB<br/>*Dimenzió:* 2500*1717 pixel
 <img src="./pexels-arist-creathrive-2253573.jpg" width="150px" height="auto" alt="pexels-arist-creathrive-2253573.jpg" />|*Fájlnév:* pexels-arist-creathrive-2253573.jpg<br/>*Méret:* 2.88 MB<br/>*Dimenzió:* 4000*2250 pixel
 <img src="./pexels-artem-beliaikin-853199.jpg" width="150px" height="auto" alt="pexels-artem-beliaikin-853199.jpg" />|*Fájlnév:* pexels-artem-beliaikin-853199.jpg<br/>*Méret:* 7.02 MB<br/>*Dimenzió:* 6000*4000 pixel
