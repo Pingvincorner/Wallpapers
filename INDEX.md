@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 69 képfájl található a gyűjteményben.
+###### 70 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -49,6 +49,7 @@ Háttérkép|Adatok
 <img src="./mountains-8.jpg" width="150px" height="auto" alt="mountains-8.jpg" />|*Fájlnév:* mountains-8.jpg<br/>*Méret:* 2.20 MB<br/>*Dimenzió:* 4096*2733 pixel
 <img src="./mountains-9.jpg" width="150px" height="auto" alt="mountains-9.jpg" />|*Fájlnév:* mountains-9.jpg<br/>*Méret:* 139.55 KB<br/>*Dimenzió:* 1707*1080 pixel
 <img src="./new-york-hq.jpg" width="150px" height="auto" alt="new-york-hq.jpg" />|*Fájlnév:* new-york-hq.jpg<br/>*Méret:* 312.65 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./normal-windows--wallpaper.jpg" width="150px" height="auto" alt="normal-windows--wallpaper.jpg" />|*Fájlnév:* normal-windows--wallpaper.jpg<br/>*Méret:* 207.44 KB<br/>*Dimenzió:* 3840*2160 pixel
 <img src="./pexels-anand-dandekar-1532771.jpg" width="150px" height="auto" alt="pexels-anand-dandekar-1532771.jpg" />|*Fájlnév:* pexels-anand-dandekar-1532771.jpg<br/>*Méret:* 466.22 KB<br/>*Dimenzió:* 2500*1717 pixel
 <img src="./pexels-arist-creathrive-2253573.jpg" width="150px" height="auto" alt="pexels-arist-creathrive-2253573.jpg" />|*Fájlnév:* pexels-arist-creathrive-2253573.jpg<br/>*Méret:* 2.88 MB<br/>*Dimenzió:* 4000*2250 pixel
 <img src="./pexels-artem-beliaikin-853199.jpg" width="150px" height="auto" alt="pexels-artem-beliaikin-853199.jpg" />|*Fájlnév:* pexels-artem-beliaikin-853199.jpg<br/>*Méret:* 7.02 MB<br/>*Dimenzió:* 6000*4000 pixel
