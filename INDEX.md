@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 71 képfájl található a gyűjteményben.
+###### 70 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -21,7 +21,6 @@ Háttérkép|Adatok
 <img src="./DSCN5114.JPG" width="150px" height="auto" alt="DSCN5114.JPG" />|*Fájlnév:* DSCN5114.JPG<br/>*Méret:* 3.00 MB<br/>*Dimenzió:* 4608*3072 pixel
 <img src="./IMG_20200121_144648_BURST8.jpg" width="150px" height="auto" alt="IMG_20200121_144648_BURST8.jpg" />|*Fájlnév:* IMG_20200121_144648_BURST8.jpg<br/>*Méret:* 252.83 KB<br/>*Dimenzió:* 1737*976 pixel
 <img src="./NYC_Top_of_the_Rock_Pano.jpg" width="150px" height="auto" alt="NYC_Top_of_the_Rock_Pano.jpg" />|*Fájlnév:* NYC_Top_of_the_Rock_Pano.jpg<br/>*Méret:* 1.77 MB<br/>*Dimenzió:* 4889*1111 pixel
-<img src="./abstract_particles.jpg" width="150px" height="auto" alt="abstract_particles.jpg" />|*Fájlnév:* abstract_particles.jpg<br/>*Méret:* 657.27 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./archetypes_of_mankind.jpg" width="150px" height="auto" alt="archetypes_of_mankind.jpg" />|*Fájlnév:* archetypes_of_mankind.jpg<br/>*Méret:* 12.83 KB<br/>*Dimenzió:* 709*399 pixel
 <img src="./bckgrnd1.jpg" width="150px" height="auto" alt="bckgrnd1.jpg" />|*Fájlnév:* bckgrnd1.jpg<br/>*Méret:* 225.29 KB<br/>*Dimenzió:* 2560*1600 pixel
 <img src="./bckgrnd2.jpg" width="150px" height="auto" alt="bckgrnd2.jpg" />|*Fájlnév:* bckgrnd2.jpg<br/>*Méret:* 142.55 KB<br/>*Dimenzió:* 2560*1600 pixel
