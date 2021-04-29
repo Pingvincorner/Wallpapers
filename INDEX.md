@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 72 képfájl található a gyűjteményben.
+###### 71 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -37,7 +37,6 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@imac-pro-official--wallpaper.jpg" width="150px" height="auto" alt="imac-pro-official--wallpaper.jpg" />|*Fájlnév:* <a href="./imac-pro-official--wallpaper.jpg">imac-pro-official--wallpaper.jpg</a><br/>*Méret:* 381.12 KB<br/>*Dimenzió:* 4096*2160 pixel
 <img src="./.thumbs/t@iu.png" width="150px" height="auto" alt="iu.png" />|*Fájlnév:* <a href="./iu.png">iu.png</a><br/>*Méret:* 860.52 KB<br/>*Dimenzió:* 3440*1440 pixel
 <img src="./.thumbs/t@keszthely_beach_2188p.jpg" width="150px" height="auto" alt="keszthely_beach_2188p.jpg" />|*Fájlnév:* <a href="./keszthely_beach_2188p.jpg">keszthely_beach_2188p.jpg</a><br/>*Méret:* 3.46 MB<br/>*Dimenzió:* 3890*2188 pixel
-<img src="./.thumbs/t@manjaro-dog.jpg" width="150px" height="auto" alt="manjaro-dog.jpg" />|*Fájlnév:* <a href="./manjaro-dog.jpg">manjaro-dog.jpg</a><br/>*Méret:* 106.34 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@mountains-0.jpg" width="150px" height="auto" alt="mountains-0.jpg" />|*Fájlnév:* <a href="./mountains-0.jpg">mountains-0.jpg</a><br/>*Méret:* 265.62 KB<br/>*Dimenzió:* 1350*1080 pixel
 <img src="./.thumbs/t@mountains-1.jpg" width="150px" height="auto" alt="mountains-1.jpg" />|*Fájlnév:* <a href="./mountains-1.jpg">mountains-1.jpg</a><br/>*Méret:* 258.11 KB<br/>*Dimenzió:* 1620*1080 pixel
 <img src="./.thumbs/t@mountains-10.jpg" width="150px" height="auto" alt="mountains-10.jpg" />|*Fájlnév:* <a href="./mountains-10.jpg">mountains-10.jpg</a><br/>*Méret:* 343.15 KB<br/>*Dimenzió:* 1620*1080 pixel
