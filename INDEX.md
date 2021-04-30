@@ -1,10 +1,11 @@
 # Háttérképek index fájl
 
-###### 71 képfájl található a gyűjteményben.
+###### 77 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
 <img src="./.thumbs/t@10.png" width="150px" height="auto" alt="10.png" />|*Fájlnév:* <a href="./10.png">10.png</a><br/>*Méret:* 1.33 MB<br/>*Dimenzió:* 4498*3000 pixel
+<img src="./.thumbs/t@1033740.jpg" width="150px" height="auto" alt="1033740.jpg" />|*Fájlnév:* <a href="./1033740.jpg">1033740.jpg</a><br/>*Méret:* 781.07 KB<br/>*Dimenzió:* 3840*2160 pixel
 <img src="./.thumbs/t@1115.jpg" width="150px" height="auto" alt="1115.jpg" />|*Fájlnév:* <a href="./1115.jpg">1115.jpg</a><br/>*Méret:* 479.64 KB<br/>*Dimenzió:* 2560*1440 pixel
 <img src="./.thumbs/t@1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" width="150px" height="auto" alt="1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" />|*Fájlnév:* <a href="./1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg">1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg</a><br/>*Méret:* 1.90 MB<br/>*Dimenzió:* 4717*2984 pixel
 <img src="./.thumbs/t@4.png" width="150px" height="auto" alt="4.png" />|*Fájlnév:* <a href="./4.png">4.png</a><br/>*Méret:* 3.55 MB<br/>*Dimenzió:* 7952*5304 pixel
@@ -13,6 +14,7 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@7.png" width="150px" height="auto" alt="7.png" />|*Fájlnév:* <a href="./7.png">7.png</a><br/>*Méret:* 432.67 KB<br/>*Dimenzió:* 3000*2002 pixel
 <img src="./.thumbs/t@70059505_p0_master1200.jpg" width="150px" height="auto" alt="70059505_p0_master1200.jpg" />|*Fájlnév:* <a href="./70059505_p0_master1200.jpg">70059505_p0_master1200.jpg</a><br/>*Méret:* 766.79 KB<br/>*Dimenzió:* 1200*675 pixel
 <img src="./.thumbs/t@8.png" width="150px" height="auto" alt="8.png" />|*Fájlnév:* <a href="./8.png">8.png</a><br/>*Méret:* 3.58 MB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./.thumbs/t@848687.png" width="150px" height="auto" alt="848687.png" />|*Fájlnév:* <a href="./848687.png">848687.png</a><br/>*Méret:* 2.17 MB<br/>*Dimenzió:* 2560*1440 pixel
 <img src="./.thumbs/t@9.png" width="150px" height="auto" alt="9.png" />|*Fájlnév:* <a href="./9.png">9.png</a><br/>*Méret:* 1.45 MB<br/>*Dimenzió:* 7952*5304 pixel
 <img src="./.thumbs/t@DSCN4869.JPG" width="150px" height="auto" alt="DSCN4869.JPG" />|*Fájlnév:* <a href="./DSCN4869.JPG">DSCN4869.JPG</a><br/>*Méret:* 3.05 MB<br/>*Dimenzió:* 4608*3072 pixel
 <img src="./.thumbs/t@DSCN4891.JPG" width="150px" height="auto" alt="DSCN4891.JPG" />|*Fájlnév:* <a href="./DSCN4891.JPG">DSCN4891.JPG</a><br/>*Méret:* 2.99 MB<br/>*Dimenzió:* 4608*3072 pixel
@@ -31,12 +33,15 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@bckgrnd6.jpg" width="150px" height="auto" alt="bckgrnd6.jpg" />|*Fájlnév:* <a href="./bckgrnd6.jpg">bckgrnd6.jpg</a><br/>*Méret:* 210.40 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@bckgrnd7.jpg" width="150px" height="auto" alt="bckgrnd7.jpg" />|*Fájlnév:* <a href="./bckgrnd7.jpg">bckgrnd7.jpg</a><br/>*Méret:* 264.83 KB<br/>*Dimenzió:* 2560*1440 pixel
 <img src="./.thumbs/t@cat_night_lights_74375_1280x720.jpg" width="150px" height="auto" alt="cat_night_lights_74375_1280x720.jpg" />|*Fájlnév:* <a href="./cat_night_lights_74375_1280x720.jpg">cat_night_lights_74375_1280x720.jpg</a><br/>*Méret:* 72.70 KB<br/>*Dimenzió:* 1280*720 pixel
+<img src="./.thumbs/t@distro_agnostic_abstract.png" width="150px" height="auto" alt="distro_agnostic_abstract.png" />|*Fájlnév:* <a href="./distro_agnostic_abstract.png">distro_agnostic_abstract.png</a><br/>*Méret:* 1.31 MB<br/>*Dimenzió:* 1366*768 pixel
 <img src="./.thumbs/t@erg0wagg1vs01.jpg" width="150px" height="auto" alt="erg0wagg1vs01.jpg" />|*Fájlnév:* <a href="./erg0wagg1vs01.jpg">erg0wagg1vs01.jpg</a><br/>*Méret:* 560.14 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./.thumbs/t@folders.png" width="150px" height="auto" alt="folders.png" />|*Fájlnév:* <a href="./folders.png">folders.png</a><br/>*Méret:* 315.04 KB<br/>*Dimenzió:* 1527*859 pixel
 <img src="./.thumbs/t@hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" width="150px" height="auto" alt="hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" />|*Fájlnév:* <a href="./hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg">hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg</a><br/>*Méret:* 377.84 KB<br/>*Dimenzió:* 2048*1365 pixel
 <img src="./.thumbs/t@horizon.png" width="150px" height="auto" alt="horizon.png" />|*Fájlnév:* <a href="./horizon.png">horizon.png</a><br/>*Méret:* 2.45 MB<br/>*Dimenzió:* 3840*2160 pixel
 <img src="./.thumbs/t@imac-pro-official--wallpaper.jpg" width="150px" height="auto" alt="imac-pro-official--wallpaper.jpg" />|*Fájlnév:* <a href="./imac-pro-official--wallpaper.jpg">imac-pro-official--wallpaper.jpg</a><br/>*Méret:* 381.12 KB<br/>*Dimenzió:* 4096*2160 pixel
 <img src="./.thumbs/t@iu.png" width="150px" height="auto" alt="iu.png" />|*Fájlnév:* <a href="./iu.png">iu.png</a><br/>*Méret:* 860.52 KB<br/>*Dimenzió:* 3440*1440 pixel
 <img src="./.thumbs/t@keszthely_beach_2188p.jpg" width="150px" height="auto" alt="keszthely_beach_2188p.jpg" />|*Fájlnév:* <a href="./keszthely_beach_2188p.jpg">keszthely_beach_2188p.jpg</a><br/>*Méret:* 3.46 MB<br/>*Dimenzió:* 3890*2188 pixel
+<img src="./.thumbs/t@minimal.png" width="150px" height="auto" alt="minimal.png" />|*Fájlnév:* <a href="./minimal.png">minimal.png</a><br/>*Méret:* 110.27 KB<br/>*Dimenzió:* 3724*2076 pixel
 <img src="./.thumbs/t@mountains-0.jpg" width="150px" height="auto" alt="mountains-0.jpg" />|*Fájlnév:* <a href="./mountains-0.jpg">mountains-0.jpg</a><br/>*Méret:* 265.62 KB<br/>*Dimenzió:* 1350*1080 pixel
 <img src="./.thumbs/t@mountains-1.jpg" width="150px" height="auto" alt="mountains-1.jpg" />|*Fájlnév:* <a href="./mountains-1.jpg">mountains-1.jpg</a><br/>*Méret:* 258.11 KB<br/>*Dimenzió:* 1620*1080 pixel
 <img src="./.thumbs/t@mountains-10.jpg" width="150px" height="auto" alt="mountains-10.jpg" />|*Fájlnév:* <a href="./mountains-10.jpg">mountains-10.jpg</a><br/>*Méret:* 343.15 KB<br/>*Dimenzió:* 1620*1080 pixel
@@ -72,6 +77,7 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@thumb-1920-895410.png" width="150px" height="auto" alt="thumb-1920-895410.png" />|*Fájlnév:* <a href="./thumb-1920-895410.png">thumb-1920-895410.png</a><br/>*Méret:* 1.71 MB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@wallhaven-1kp5l1.jpg" width="150px" height="auto" alt="wallhaven-1kp5l1.jpg" />|*Fájlnév:* <a href="./wallhaven-1kp5l1.jpg">wallhaven-1kp5l1.jpg</a><br/>*Méret:* 152.99 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@wallhaven-96m2vx.jpg" width="150px" height="auto" alt="wallhaven-96m2vx.jpg" />|*Fájlnév:* <a href="./wallhaven-96m2vx.jpg">wallhaven-96m2vx.jpg</a><br/>*Méret:* 866.77 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./.thumbs/t@wallhaven-g8537d.jpg" width="150px" height="auto" alt="wallhaven-g8537d.jpg" />|*Fájlnév:* <a href="./wallhaven-g8537d.jpg">wallhaven-g8537d.jpg</a><br/>*Méret:* 485.99 KB<br/>*Dimenzió:* 2560*1257 pixel
 <img src="./.thumbs/t@wallhaven-k7xrym.jpg" width="150px" height="auto" alt="wallhaven-k7xrym.jpg" />|*Fájlnév:* <a href="./wallhaven-k7xrym.jpg">wallhaven-k7xrym.jpg</a><br/>*Méret:* 283.00 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@wallhaven-z8yp3w.jpg" width="150px" height="auto" alt="wallhaven-z8yp3w.jpg" />|*Fájlnév:* <a href="./wallhaven-z8yp3w.jpg">wallhaven-z8yp3w.jpg</a><br/>*Méret:* 3.54 MB<br/>*Dimenzió:* 6000*4000 pixel
 <img src="./.thumbs/t@z6z7uc4qyby51.png" width="150px" height="auto" alt="z6z7uc4qyby51.png" />|*Fájlnév:* <a href="./z6z7uc4qyby51.png">z6z7uc4qyby51.png</a><br/>*Méret:* 415.71 KB<br/>*Dimenzió:* 2400*1350 pixel
