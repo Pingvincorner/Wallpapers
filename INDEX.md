@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 77 képfájl található a gyűjteményben.
+###### 85 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -34,6 +34,14 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@bckgrnd7.jpg" width="150px" height="auto" alt="bckgrnd7.jpg" />|*Fájlnév:* <a href="./bckgrnd7.jpg">bckgrnd7.jpg</a><br/>*Méret:* 264.83 KB<br/>*Dimenzió:* 2560*1440 pixel
 <img src="./.thumbs/t@cat_night_lights_74375_1280x720.jpg" width="150px" height="auto" alt="cat_night_lights_74375_1280x720.jpg" />|*Fájlnév:* <a href="./cat_night_lights_74375_1280x720.jpg">cat_night_lights_74375_1280x720.jpg</a><br/>*Méret:* 72.70 KB<br/>*Dimenzió:* 1280*720 pixel
 <img src="./.thumbs/t@distro_agnostic_abstract.png" width="150px" height="auto" alt="distro_agnostic_abstract.png" />|*Fájlnév:* <a href="./distro_agnostic_abstract.png">distro_agnostic_abstract.png</a><br/>*Méret:* 1.31 MB<br/>*Dimenzió:* 1366*768 pixel
+<img src="./.thumbs/t@ed_20181214_2125.jpg" width="150px" height="auto" alt="ed_20181214_2125.jpg" />|*Fájlnév:* <a href="./ed_20181214_2125.jpg">ed_20181214_2125.jpg</a><br/>*Méret:* 615.40 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20190120_1846.jpg" width="150px" height="auto" alt="ed_20190120_1846.jpg" />|*Fájlnév:* <a href="./ed_20190120_1846.jpg">ed_20190120_1846.jpg</a><br/>*Méret:* 1.23 MB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20190126_1148.jpg" width="150px" height="auto" alt="ed_20190126_1148.jpg" />|*Fájlnév:* <a href="./ed_20190126_1148.jpg">ed_20190126_1148.jpg</a><br/>*Méret:* 436.76 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20190915_1143.jpg" width="150px" height="auto" alt="ed_20190915_1143.jpg" />|*Fájlnév:* <a href="./ed_20190915_1143.jpg">ed_20190915_1143.jpg</a><br/>*Méret:* 776.74 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20191124_1424.jpg" width="150px" height="auto" alt="ed_20191124_1424.jpg" />|*Fájlnév:* <a href="./ed_20191124_1424.jpg">ed_20191124_1424.jpg</a><br/>*Méret:* 657.95 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20200223_2128.jpg" width="150px" height="auto" alt="ed_20200223_2128.jpg" />|*Fájlnév:* <a href="./ed_20200223_2128.jpg">ed_20200223_2128.jpg</a><br/>*Méret:* 384.49 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20200223_2143.jpg" width="150px" height="auto" alt="ed_20200223_2143.jpg" />|*Fájlnév:* <a href="./ed_20200223_2143.jpg">ed_20200223_2143.jpg</a><br/>*Méret:* 385.39 KB<br/>*Dimenzió:* 3440*1440 pixel
+<img src="./.thumbs/t@ed_20200327_2247.jpg" width="150px" height="auto" alt="ed_20200327_2247.jpg" />|*Fájlnév:* <a href="./ed_20200327_2247.jpg">ed_20200327_2247.jpg</a><br/>*Méret:* 676.12 KB<br/>*Dimenzió:* 3440*1440 pixel
 <img src="./.thumbs/t@erg0wagg1vs01.jpg" width="150px" height="auto" alt="erg0wagg1vs01.jpg" />|*Fájlnév:* <a href="./erg0wagg1vs01.jpg">erg0wagg1vs01.jpg</a><br/>*Méret:* 560.14 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@folders.png" width="150px" height="auto" alt="folders.png" />|*Fájlnév:* <a href="./folders.png">folders.png</a><br/>*Méret:* 315.04 KB<br/>*Dimenzió:* 1527*859 pixel
 <img src="./.thumbs/t@hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" width="150px" height="auto" alt="hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" />|*Fájlnév:* <a href="./hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg">hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg</a><br/>*Méret:* 377.84 KB<br/>*Dimenzió:* 2048*1365 pixel
