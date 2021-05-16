@@ -1,6 +1,6 @@
 # Háttérképek index fájl
 
-###### 85 képfájl található a gyűjteményben.
+###### 92 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
@@ -44,6 +44,11 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@ed_20200327_2247.jpg" width="150px" height="auto" alt="ed_20200327_2247.jpg" />|*Fájlnév:* <a href="./ed_20200327_2247.jpg">ed_20200327_2247.jpg</a><br/>*Méret:* 676.12 KB<br/>*Dimenzió:* 3440*1440 pixel
 <img src="./.thumbs/t@erg0wagg1vs01.jpg" width="150px" height="auto" alt="erg0wagg1vs01.jpg" />|*Fájlnév:* <a href="./erg0wagg1vs01.jpg">erg0wagg1vs01.jpg</a><br/>*Méret:* 560.14 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@folders.png" width="150px" height="auto" alt="folders.png" />|*Fájlnév:* <a href="./folders.png">folders.png</a><br/>*Méret:* 315.04 KB<br/>*Dimenzió:* 1527*859 pixel
+<img src="./.thumbs/t@future_9.jpg" width="150px" height="auto" alt="future_9.jpg" />|*Fájlnév:* <a href="./future_9.jpg">future_9.jpg</a><br/>*Méret:* 285.67 KB<br/>*Dimenzió:* 1600*900 pixel
+<img src="./.thumbs/t@gruvbox_image9.png" width="150px" height="auto" alt="gruvbox_image9.png" />|*Fájlnév:* <a href="./gruvbox_image9.png">gruvbox_image9.png</a><br/>*Méret:* 58.01 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./.thumbs/t@hatterkep1.jpg" width="150px" height="auto" alt="hatterkep1.jpg" />|*Fájlnév:* <a href="./hatterkep1.jpg">hatterkep1.jpg</a><br/>*Méret:* 3.12 MB<br/>*Dimenzió:* 6000*4000 pixel
+<img src="./.thumbs/t@hatterkep2.jpg" width="150px" height="auto" alt="hatterkep2.jpg" />|*Fájlnév:* <a href="./hatterkep2.jpg">hatterkep2.jpg</a><br/>*Méret:* 2.29 MB<br/>*Dimenzió:* 7360*4912 pixel
+<img src="./.thumbs/t@hatterkep3.jpg" width="150px" height="auto" alt="hatterkep3.jpg" />|*Fájlnév:* <a href="./hatterkep3.jpg">hatterkep3.jpg</a><br/>*Méret:* 4.40 MB<br/>*Dimenzió:* 6016*4016 pixel
 <img src="./.thumbs/t@hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" width="150px" height="auto" alt="hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg" />|*Fájlnév:* <a href="./hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg">hd-wallpaper-home-windows-wallpaper-snow-cool-high-definition-mountains-beach-download-lake-winter.jpg</a><br/>*Méret:* 377.84 KB<br/>*Dimenzió:* 2048*1365 pixel
 <img src="./.thumbs/t@horizon.png" width="150px" height="auto" alt="horizon.png" />|*Fájlnév:* <a href="./horizon.png">horizon.png</a><br/>*Méret:* 2.45 MB<br/>*Dimenzió:* 3840*2160 pixel
 <img src="./.thumbs/t@imac-pro-official--wallpaper.jpg" width="150px" height="auto" alt="imac-pro-official--wallpaper.jpg" />|*Fájlnév:* <a href="./imac-pro-official--wallpaper.jpg">imac-pro-official--wallpaper.jpg</a><br/>*Méret:* 381.12 KB<br/>*Dimenzió:* 4096*2160 pixel
@@ -69,6 +74,7 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@pexels-artem-beliaikin-853199.jpg" width="150px" height="auto" alt="pexels-artem-beliaikin-853199.jpg" />|*Fájlnév:* <a href="./pexels-artem-beliaikin-853199.jpg">pexels-artem-beliaikin-853199.jpg</a><br/>*Méret:* 7.02 MB<br/>*Dimenzió:* 6000*4000 pixel
 <img src="./.thumbs/t@pexels-beth-easton-2433985.jpg" width="150px" height="auto" alt="pexels-beth-easton-2433985.jpg" />|*Fájlnév:* <a href="./pexels-beth-easton-2433985.jpg">pexels-beth-easton-2433985.jpg</a><br/>*Méret:* 1.79 MB<br/>*Dimenzió:* 4096*3270 pixel
 <img src="./.thumbs/t@pexels-burst-374710.jpg" width="150px" height="auto" alt="pexels-burst-374710.jpg" />|*Fájlnév:* <a href="./pexels-burst-374710.jpg">pexels-burst-374710.jpg</a><br/>*Méret:* 4.92 MB<br/>*Dimenzió:* 5498*3615 pixel
+<img src="./.thumbs/t@pexels-david-besh-884788.jpg" width="150px" height="auto" alt="pexels-david-besh-884788.jpg" />|*Fájlnév:* <a href="./pexels-david-besh-884788.jpg">pexels-david-besh-884788.jpg</a><br/>*Méret:* 1.64 MB<br/>*Dimenzió:* 4608*3072 pixel
 <img src="./.thumbs/t@pexels-eberhard-grossgasteiger-1287145.jpg" width="150px" height="auto" alt="pexels-eberhard-grossgasteiger-1287145.jpg" />|*Fájlnév:* <a href="./pexels-eberhard-grossgasteiger-1287145.jpg">pexels-eberhard-grossgasteiger-1287145.jpg</a><br/>*Méret:* 1.64 MB<br/>*Dimenzió:* 3648*2432 pixel
 <img src="./.thumbs/t@pexels-jeremy-bishop-2923595.jpg" width="150px" height="auto" alt="pexels-jeremy-bishop-2923595.jpg" />|*Fájlnév:* <a href="./pexels-jeremy-bishop-2923595.jpg">pexels-jeremy-bishop-2923595.jpg</a><br/>*Méret:* 9.59 MB<br/>*Dimenzió:* 7952*5304 pixel
 <img src="./.thumbs/t@pexels-johannes-plenio-1632788.jpg" width="150px" height="auto" alt="pexels-johannes-plenio-1632788.jpg" />|*Fájlnév:* <a href="./pexels-johannes-plenio-1632788.jpg">pexels-johannes-plenio-1632788.jpg</a><br/>*Méret:* 3.04 MB<br/>*Dimenzió:* 6000*4000 pixel
@@ -84,6 +90,7 @@ Háttérkép|Adatok
 <img src="./.thumbs/t@quentin-mabille-crane-cave-v2b.jpg" width="150px" height="auto" alt="quentin-mabille-crane-cave-v2b.jpg" />|*Fájlnév:* <a href="./quentin-mabille-crane-cave-v2b.jpg">quentin-mabille-crane-cave-v2b.jpg</a><br/>*Méret:* 580.27 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@thumb-1920-895410.png" width="150px" height="auto" alt="thumb-1920-895410.png" />|*Fájlnév:* <a href="./thumb-1920-895410.png">thumb-1920-895410.png</a><br/>*Méret:* 1.71 MB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@wallhaven-1kp5l1.jpg" width="150px" height="auto" alt="wallhaven-1kp5l1.jpg" />|*Fájlnév:* <a href="./wallhaven-1kp5l1.jpg">wallhaven-1kp5l1.jpg</a><br/>*Méret:* 152.99 KB<br/>*Dimenzió:* 1920*1080 pixel
+<img src="./.thumbs/t@wallhaven-28yqpg.png" width="150px" height="auto" alt="wallhaven-28yqpg.png" />|*Fájlnév:* <a href="./wallhaven-28yqpg.png">wallhaven-28yqpg.png</a><br/>*Méret:* 170.88 KB<br/>*Dimenzió:* 4096*2048 pixel
 <img src="./.thumbs/t@wallhaven-96m2vx.jpg" width="150px" height="auto" alt="wallhaven-96m2vx.jpg" />|*Fájlnév:* <a href="./wallhaven-96m2vx.jpg">wallhaven-96m2vx.jpg</a><br/>*Méret:* 866.77 KB<br/>*Dimenzió:* 1920*1080 pixel
 <img src="./.thumbs/t@wallhaven-g8537d.jpg" width="150px" height="auto" alt="wallhaven-g8537d.jpg" />|*Fájlnév:* <a href="./wallhaven-g8537d.jpg">wallhaven-g8537d.jpg</a><br/>*Méret:* 485.99 KB<br/>*Dimenzió:* 2560*1257 pixel
 <img src="./.thumbs/t@wallhaven-k7xrym.jpg" width="150px" height="auto" alt="wallhaven-k7xrym.jpg" />|*Fájlnév:* <a href="./wallhaven-k7xrym.jpg">wallhaven-k7xrym.jpg</a><br/>*Méret:* 283.00 KB<br/>*Dimenzió:* 1920*1080 pixel
